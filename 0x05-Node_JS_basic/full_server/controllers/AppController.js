@@ -1,5 +1,5 @@
 /**
- * accepts arguments and returns a 200 status and the message 
+ * accepts arguments and returns a 200 status and the message
  */
 class AppController {
   static getHomepage(request, response) {
